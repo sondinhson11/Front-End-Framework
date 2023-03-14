@@ -1,0 +1,28 @@
+{
+  "sanpham": [
+    {
+      "name": "Đồng Hồ Siêu Nhân",
+      "price": 200,
+      "cateoryName": "dongho",
+      "id": 1
+    },
+    {
+      "name": "HI",
+      "price": 1,
+      "cateoryName": "HI",
+      "id": 2
+    },
+    {
+      "name": "100",
+      "price": 10,
+      "cateoryName": "1",
+      "id": 3
+    },
+    {
+      "name": "11",
+      "price": 1,
+      "cateoryName": "1",
+      "id": 4
+    }
+  ]
+}
